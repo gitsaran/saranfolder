@@ -7,7 +7,7 @@ import org.springframework.context.annotation.Configuration;
 import com.saran.spring.di.services.EmailService;
 import com.saran.spring.di.services.MessageService;
 
-
+//This is the spring first commit	
 //@Configuratin indicates that the class can be used by the spring ioc container as a source of bean definitions.
 @Configuration
 
